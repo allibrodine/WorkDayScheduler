@@ -14,6 +14,10 @@ Create a daily planner with forms to input important daily tasks to manage time 
 
 https://allibrodine.github.io/WorkDayScheduler/
 
+## Screenshot
+
+![Screen Shot 2022-06-29 at 6 29 27 PM](https://user-images.githubusercontent.com/105396175/176562656-3b363071-7913-4cbd-8a5f-391100a666ac.png)
+
 ## Author
 
 Alli Brodine allibrodine@gmail.com
